@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.138.204:9980/mithuntechnologies/repository/paytm-release/</url>
+	      <name>nexus55-release</name>
+	      <url>http://3.15.201.139:8081/repository/nexus55-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.138.204:9980/mithuntechnologies/repository/paytm-snapshot/</url>
+	      <name>nexus55-snapshot</name>
+	      <url>http://3.15.201.139:8081/repository/nexus55-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
