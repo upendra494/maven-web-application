@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://18.217.244.132:9000/</sonar.host.url>
+		<sonar.host.url>http://18.224.16.89:9000/</sonar.host.url>
 <!-- sonar.login>3c3250646d962f847629acaefe6d63f1648533b2</sonar.login> -->
 		<sonar.password>admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>harsha-release</name>
-	      <url>http://18.220.212.120:8081/repository/harsha-release/</url>
+	      <name>hp-release</name>
+	      <url>http://3.17.205.53:8081/repository/hp-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>harsha-snapshot</name>
-	 <url>http://18.220.212.120:8081/repository/harsha-snapshot/</url>
+	      <name>hp-snapshot</name>
+	 <url>http://3.17.205.53:8081/repository/hp-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
