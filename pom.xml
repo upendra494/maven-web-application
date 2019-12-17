@@ -35,7 +35,7 @@
 			<groupId>org.json</groupId>
 			<artifactId>json</artifactId>
 			<version>20160212</version>
-		</dependency>
+	</dependency>
 		
 		
 		<!-- test dependencies -->
@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>hp-release</name>
-	      <url>http://18.222.232.40:8081/repository/hp-release/</url>
+	      <name>dog-release</name>
+	      <url>http://3.19.61.233:8081/repository/dog-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>hp-snapshot</name>
-	 <url>http://18.222.232.40:8081/repository/hp-snapshot/</url>
+	      <name>dog-snapshot</name>
+	 <url>http://3.19.61.233:8081/repository/dog-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
