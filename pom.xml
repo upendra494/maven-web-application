@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>sony-release</name>
-	      <url>http://13.58.79.2:8081/repository/sony-release/</url>
+	      <name>upendra-release</name>
+	      <url>http://18.224.95.23:8081/repository/upendra-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>sony-snapshot</name>
-	 <url>http://13.58.79.2:8081/repository/sony-snapshot/</url>
+	      <name>upendra-snapshot</name>
+	 <url>http://18.224.95.23:8081/repository/upendra-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
