@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>uppi-release</name>
-	      <url>http://3.17.67.47:8081/repository/jai-release/</url>
+	      <name>u-release</name>
+	      <url>http://3.136.156.126:8081/repository/u-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>uppi-snapshot</name>
-	 <url>http://3.17.67.47:8081/repository/jai-snap/</url>
+	      <name>u-snapshot</name>
+	 <url>http://3.136.156.126:8081/repository/u-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
