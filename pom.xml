@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>u-release</name>
-	      <url>http://3.136.156.126:8081/repository/u-release/</url>
+	      <name>hi-rel</name>
+	      <url>http://3.136.156.126:8081/repository/hi-rel/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>u-snapshot</name>
-	 <url>http://3.136.156.126:8081/repository/u-snapshot/</url>
+	      <name>hi-snap</name>
+	 <url>http://3.136.156.126:8081/repository/hi-snap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
