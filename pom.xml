@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>k-release</name>
-	      <url>http://3.14.14.125:8081/repository/k-release/</url>
+	      <name>dog-release</name>
+	      <url>http://3.14.14.125:8081/repository/dog-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>k-snapshot</name>
-	 <url>http://3.14.14.125:8081/repository/k-snapshot/</url>
+	      <name>dog-snapshot</name>
+	 <url>http://3.14.14.125:8081/repository/dog-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
