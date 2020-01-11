@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>harsha-release</name>
-	      <url>http://3.134.91.229:8081/repository/harsha-release/</url>
+	      <name>intel-release</name>
+	      <url>http://18.191.213.192:8081/repository/intel-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>harsha-snapshot</name>
-	 <url>http://3.134.91.229:8081/repository/harsha-release/</url>
+	      <name>intel-snapshot</name>
+	 <url>http://18.191.213.192:8081/repository/intel-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
