@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>uppu-release</name>
-	      <url>http://3.16.155.100:8081/repository/uppu-release/</url>
+	      <name>harsha-release</name>
+	      <url>http://3.134.91.229:8081/repository/harsha-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>uppu-snapshot</name>
-	 <url>http://3.16.155.100:8081/repository/uppu-snapshot/</url>
+	      <name>harsha-snapshot</name>
+	 <url>http://3.134.91.229:8081/repository/harsha-release/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
