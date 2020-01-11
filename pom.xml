@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>dog-release</name>
-	      <url>http://3.14.14.125:8081/repository/dog-release/</url>
+	      <name>upendra-release</name>
+	      <url>http://3.19.26.193:8081/repository/upendra-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>dog-snapshot</name>
-	 <url>http://3.14.14.125:8081/repository/dog-snapshot/</url>
+	      <name>upendra-snapshot</name>
+	 <url>http://3.19.26.193:8081/repository/upendra-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
