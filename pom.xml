@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>intel-release</name>
-	      <url>http://18.191.213.192:8081/repository/intel-release/</url>
+	      <name>bava-release</name>
+	      <url>http://13.58.189.90:8081/repository/bava-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>intel-snapshot</name>
-	 <url>http://18.191.213.192:8081/repository/intel-snapshot/</url>
+	      <name>bava-snapshot</name>
+	 <url>http://13.58.189.90:8081/repository/bava-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
