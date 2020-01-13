@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>bava-release</name>
-	      <url>http://13.58.189.90:8081/repository/bava-release/</url>
+	      <name>sonar-release</name>
+	      <url>http://13.58.229.51:8081/repository/sonar-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>bava-snapshot</name>
-	 <url>http://13.58.189.90:8081/repository/bava-snapshot/</url>
+	      <name>sonar-snapshot</name>
+	 <url>http://13.58.229.51:8081/repository/sonar-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
