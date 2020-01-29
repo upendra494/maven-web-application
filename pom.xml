@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>sonar-release</name>
-	      <url>http://13.58.229.51:8081/repository/sonar-release/</url>
+	      <name>intel1-release</name>
+	      <url>http://13.59.5.58:8081/repository/intel1-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>sonar-snapshot</name>
-	 <url>http://13.58.229.51:8081/repository/sonar-snapshot/</url>
+	      <name>intel1-snapshot</name>
+	 <url>http://13.59.5.58:8081/repository/intel1-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
