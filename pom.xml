@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>uppi-release</name>
-	      <url>http://13.59.5.58:8081/repository/uppi-release/</url>
+	      <name>hello-release</name>
+	      <url>http://18.217.64.31:8081/repository/hello-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>uppi-snapshot</name>
-	 <url>http://13.59.5.58:8081/repository/uppi-snapshot/</url>
+	      <name>hello-snapshot</name>
+	 <url>http://18.217.64.31:8081/repository/hello-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
