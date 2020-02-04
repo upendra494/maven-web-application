@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>dog-release</name>
-	      <url>http://18.217.64.31:8081/repository/dog-release/</url>
+	      <name>uppu-release</name>
+	      <url>http://18.189.44.239:8081/repository/uppu-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>dog-snapshot</name>
-	 <url>http://18.217.64.31:8081/repository/dog-snapshot/</url>
+	      <id>nexus</id>http://18.189.44.239:8081/repository/uppu-snapshot/
+	      <name>uppu-snapshot</name>
+	 <url></url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
