@@ -103,9 +103,9 @@
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>http://18.189.44.239:8081/repository/uppu-snapshot/
+	      <id>nexus</id>
 	      <name>uppu-snapshot</name>
-	 <url></url>
+	 <url>http://18.189.44.239:8081/repository/uppu-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
