@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>upendra</name>
-	      <url>http://13.127.24.75:8081/repository/upendra-release/</url>
+	      <name>umesh-release</name>
+	      <url>http://15.206.125.84:8081/repository/umesh-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>upendra-snapshot</name>
-	 <url>http://13.127.24.75:8081/repository/upendra-snapshot/</url>
+	      <name>umesh-snapshot</name>
+	 <url>http://15.206.125.84:8081/repository/umesh-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
