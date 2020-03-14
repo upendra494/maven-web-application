@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>subbu-release</name>
-	      <url>http://13.235.13.110:8081/repository/subbu-release/</url>
+	      <name>name-release</name>
+	      <url>http://13.235.134.24:8081/repository/name-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>subbu-snapshot</name>
-	 <url>http://13.235.13.110:8081/repository/subbu-snapshot/</url>
+	      <name>name-snapshot</name>
+	 <url>http://13.235.134.24:8081/repository/name-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
