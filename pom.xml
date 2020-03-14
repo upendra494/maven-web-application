@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>umesh-release</name>
-	      <url>http://15.206.125.84:8081/repository/umesh-release/</url>
+	      <name>subbu-release</name>
+	      <url>http://13.235.13.110:8081/repository/subbu-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>umesh-snapshot</name>
-	 <url>http://15.206.125.84:8081/repository/umesh-snapshot/</url>
+	      <name>subbu-snapshot</name>
+	 <url>http://13.235.13.110:8081/repository/subbu-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
