@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>hello-release</name>
-	      <url>http://13.233.237.95:8081/repository/hello-release/</url>
+	      <name>upendra-release</name>
+	      <url>http://3.6.38.114:8081/repository/upendra-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>hello-snapshot</name>
-	 <url>http://13.233.237.95:8081/repository/hello-snapshot/</url>
+	      <name>upendra-snapshot</name>
+	 <url>http://3.6.38.114:8081/repository/upendra-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
