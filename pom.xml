@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>hello-release</name>
-	      <url>http://15.206.209.135:8081/repository/hello-release/</url>
+	      <name>umesh-release</name>
+	      <url>http://15.207.88.38:8081/repository/umesh-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>hello-snapshot</name>
-	 <url>http://15.206.209.135:8081/repository/hello-snapshot/</url>
+	      <name>umesh-snapshot</name>
+	 <url>http://15.207.88.38:8081/repository/umesh-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
