@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>baba-release</name>
-	      <url>http://13.232.201.1:8081/repository/baba-release/</url>
+	      <name>p-release</name>
+	      <url>http://13.235.79.0:8081/repository/p-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>baba-snapshot</name>
-	 <url>http://13.232.201.1:8081/repository/baba-snapshot/</url>
+	      <name>p-snapshot</name>
+	 <url>http://13.235.79.0:8081/repository/p-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
