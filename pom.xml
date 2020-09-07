@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>dog-release</name>
-	      <url>http://13.233.131.93:8081/repository/dog-release/</url>
+	      <name>cat-release</name>
+	      <url>http://13.233.131.93:8081/repository/cat-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>dog-snapshot</name>
-	 <url>http://13.233.131.93:8081/repository/dog-snapshot/</url>
+	      <name>cat-snapshot</name>
+	 <url>http://13.233.131.93:8081/repository/cat-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
