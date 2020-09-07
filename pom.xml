@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>cat-release</name>
-	      <url>http://13.233.131.93:8081/repository/cat-release/</url>
+	      <name>man-release</name>
+	      <url>http://13.235.77.115:8081/repository/man-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>cat-snapshot</name>
-	 <url>http://13.233.131.93:8081/repository/cat-snapshot/</url>
+	      <name>man-snapshot</name>
+	 <url>http://13.235.77.115:8081/repository/man-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
