@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>p-release</name>
-	      <url>http://13.235.79.0:8081/repository/p-release/</url>
+	      <name>mama-release</name>
+	      <url>http://13.233.131.93:8081/repository/mama-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>p-snapshot</name>
-	 <url>http://13.235.79.0:8081/repository/p-snapshot/</url>
+	      <name>mama-snapshot</name>
+	 <url>http://13.233.131.93:8081/repository/mama-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
