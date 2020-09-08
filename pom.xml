@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>man-release</name>
-	      <url>http://13.235.77.115:8081/repository/man-release/</url>
+	      <name>king-release</name>
+	      <url>http://15.207.223.177:8081/repository/king-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>man-snapshot</name>
-	 <url>http://13.235.77.115:8081/repository/man-snapshot/</url>
+	      <name>king-snapshot</name>
+	 <url>http://15.207.223.177:8081/repository/king-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
