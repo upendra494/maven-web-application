@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>tata-release</name>
-	      <url>http://15.207.112.77:8081/repository/tata-release/</url>
+	      <name>upendra-release</name>
+	      <url>http://13.232.189.189:8081/repository/upendra-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>tata-snapshot</name>
-	 <url>http://15.207.112.77:8081/repository/tata-snapshot/</url>
+	      <name>upendra-snapshot</name>
+	 <url>http://13.232.189.189:8081/repository/upendra-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
