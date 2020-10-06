@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>upendra-release</name>
-	      <url>http://13.232.189.189:8081/repository/upendra-release/</url>
+	      <name>uppi-release</name>
+	      <url>http://13.232.150.153:8081/repository/uppi-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>upendra-snapshot</name>
-	 <url>http://13.232.189.189:8081/repository/upendra-snapshot/</url>
+	      <name>uppi-snapshot</name>
+	 <url>http://13.232.150.153:8081/repository/uppi-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
