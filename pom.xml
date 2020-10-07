@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>uppi-release</name>
-	      <url>http://13.232.150.153:8081/repository/uppi-release/</url>
+	      <name>umesh-release</name>
+	      <url>http://3.7.70.189:8081/repository/umesh-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>uppi-snapshot</name>
-	 <url>http://13.232.150.153:8081/repository/uppi-snapshot/</url>
+	      <name>umesh-snapshot</name>
+	 <url>http://3.7.70.189:8081/repository/umesh-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
