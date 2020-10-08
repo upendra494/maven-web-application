@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>umesh-release</name>
-	      <url>http://3.7.70.189:8081/repository/umesh-release/</url>
+	      <name>hp-release</name>
+	      <url>http://13.126.231.76:8081/repository/hp-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>umesh-snapshot</name>
-	 <url>http://3.7.70.189:8081/repository/umesh-snapshot/</url>
+	      <name>hp-snapshot</name>
+	 <url>http://13.126.231.76:8081/repository/hp-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
