@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>hp-release</name>
-	      <url>http://13.126.231.76:8081/repository/hp-release/</url>
+	      <name>uppi-release</name>
+	      <url>http://52.66.253.59:8081/repository/uppi-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>hp-snapshot</name>
-	 <url>http://13.126.231.76:8081/repository/hp-snapshot/</url>
+	      <name>uppi-snapshot</name>
+	 <url>http://52.66.253.59:8081/repository/uppi-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
